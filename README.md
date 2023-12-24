@@ -11,11 +11,11 @@ AwesomeBot is a versatile Discord bot that brings a variety of features to enhan
 - `%pause`: Pause the current song.
 - `%resume`: Resume playback.
 - `%stop`: Stop playback and disconnect from the voice channel.
-- `%clear [amount]`: Delete a specified number of messages from the chat channel.
 
 ### Moderation Commands
 - `%ban <@user> [reason=None]`: Permanently ban a user from the server.
 - `%unban <user_id>`: Unban a user on the server.
+- `%clear [amount]`: Delete a specified number of messages from the chat channel.
 
 ### Fun and Games
 - `%joke`: Get a random joke.
